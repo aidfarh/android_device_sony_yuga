@@ -2703,7 +2703,7 @@ SectionDevice
 		'EAR PA Gain':0:POS_6_DB
 		'DAC1 Switch':1:1
 		'SLIM TX3 MUX':0:RMIX1
-		'RX1 Digital Volume':1:68
+		'RX1 Digital Volume':1:73
 	EndSequence
 
 	DisableSequence
@@ -2740,7 +2740,7 @@ SectionDevice
 		'IIR1 Enable Band4':1:1
 		'IIR1 Enable Band5':1:1
 		'RX1 MIX2 INP1':0:IIR1
-		'RX1 Digital Volume':1:68
+		'RX1 Digital Volume':1:73
 	EndSequence
 
 	DisableSequence
@@ -2787,7 +2787,7 @@ SectionDevice
 		'IIR1 Enable Band4':1:1
 		'IIR1 Enable Band5':1:1
 		'RX1 MIX2 INP1':0:IIR1
-		'RX1 Digital Volume':1:68
+		'RX1 Digital Volume':1:73
 	EndSequence
 
 	DisableSequence
@@ -2834,7 +2834,7 @@ SectionDevice
 		'IIR1 Enable Band4':1:1
 		'IIR1 Enable Band5':1:1
 		'RX1 MIX2 INP1':0:IIR1
-		'RX1 Digital Volume':1:68
+		'RX1 Digital Volume':1:73
 	EndSequence
 
 	DisableSequence
@@ -2870,7 +2870,7 @@ SectionDevice
 		'EAR PA Gain':0:POS_6_DB
 		'DAC1 Switch':1:1
 		'SLIM TX3 MUX':0:RMIX1
-		'RX1 Digital Volume':1:68
+		'RX1 Digital Volume':1:73
 	EndSequence
 
 	DisableSequence
@@ -2973,7 +2973,7 @@ SectionDevice
 		'RX3 MIX1 INP2':0:RX6
 		'LINEOUT1 Volume':1:100
 		'SLIM TX3 MUX':0:RMIX3
-		'RX3 Digital Volume':1:68
+		'RX3 Digital Volume':1:75
 	EndSequence
 
 	DisableSequence
@@ -2999,7 +2999,7 @@ SectionDevice
 		'LINEOUT1 Volume':1:100
 		'SLIM TX3 MUX':0:RMIX3
 		'SLIM TX5 MUX':0:RMIX3
-		'RX3 Digital Volume':1:68
+		'RX3 Digital Volume':1:71
 	EndSequence
 
 	DisableSequence
@@ -3026,7 +3026,7 @@ SectionDevice
 		'LINEOUT1 Volume':1:100
 		'SLIM TX3 MUX':0:RMIX3
 		'SLIM TX5 MUX':0:RMIX3
-		'RX3 Digital Volume':1:68
+		'RX3 Digital Volume':1:71
 	EndSequence
 
 	DisableSequence
@@ -3078,8 +3078,8 @@ SectionDevice
 		'RX2 MIX1 INP2':0:RX7
 		'HPHL DAC Switch':1:1
 		'HPHR DAC Switch':1:1
-		'HPHL Volume':1:67
-		'HPHR Volume':1:67
+		'HPHL Volume':1:92
+		'HPHR Volume':1:92
 		'SLIM TX3 MUX':0:RMIX1
 		'SLIM TX5 MUX':0:RMIX2
 		'RX1 Digital Volume':1:68
