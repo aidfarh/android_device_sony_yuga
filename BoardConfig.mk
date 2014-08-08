@@ -35,4 +35,14 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 0x01400000
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1056964608
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
-BOARD_HARDWARE_CLASS += device/sony/yuga/cmhw
+BOARD_HARDWARE_CLASS := device/sony/yuga/cmhw
+
+#MultiROM config. MultiROM also uses parts of TWRP config
+MR_INPUT_TYPE := type_b
+MR_INIT_DEVICES := device/sony/yuga/multirom/init_devices.c
+MR_DPI := xhdpi
+MR_DPI_FONT := 340
+MR_FSTAB := device/sony/fusion3-common/rootdir/twrp.fstab
+MR_USE_MROM_FSTAB := true
+MR_KEXEC_MEM_MIN := 0x85000000
+MR_PRODUCT_DEVICE := yuga
