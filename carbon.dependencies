@@ -13,7 +13,8 @@
   },
   {
     "repository": "HydraMod/android_kernel_sony_apq8064",
-    "target_path": "kernel/sony/apq8064"
+    "target_path": "kernel/sony/apq8064",
+    "revision": "kk-new"
   },
   {
     "repository": "HydraMod/android_hardware_sony_DASH",
