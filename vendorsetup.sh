@@ -1,1 +1,1 @@
-add_lunch_combo carbon_yuga-eng
+add_lunch_combo omni_yuga-userdebug
