@@ -1,8 +1,5 @@
 $(call inherit-product, device/sony/yuga/full_yuga.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/omni/config/nfc_enhanced.mk)
-
 # Inherit GSM configuration
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
