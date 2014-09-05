@@ -45,4 +45,4 @@ MR_DPI_FONT := 340
 MR_FSTAB := device/sony/fusion3-common/rootdir/twrp.fstab
 MR_USE_MROM_FSTAB := true
 MR_KEXEC_MEM_MIN := 0x85000000
-MR_PRODUCT_DEVICE := yuga
+MR_RECOVERY_IN_BOOTIMG := true
