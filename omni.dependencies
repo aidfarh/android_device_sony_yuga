@@ -1,27 +1,38 @@
 [
   {
     "repository": "HydraCarbon/android_device_sony_common",
-    "target_path": "device/sony/common"
+    "target_path": "device/sony/common",
+    "remote": "github",
+    "revision": "android-4.4"
   },
   {
     "repository": "HydraCarbon/android_device_sony_qcom-common",
-    "target_path": "device/sony/qcom-common"
+    "target_path": "device/sony/qcom-common",
+    "remote": "github",
+    "revision": "android-4.4"
   },
   {
     "repository": "HydraCarbon/android_device_sony_fusion3-common",
-    "target_path": "device/sony/fusion3-common"
+    "target_path": "device/sony/fusion3-common",
+    "remote": "github",
+    "revision": "android-4.4"
   },
   {
     "repository": "HydraCarbon/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
+    "remote": "github",
     "revision": "kk-new"
   },
   {
     "repository": "HydraCarbon/android_hardware_sony_DASH",
-    "target_path": "hardware/sony/DASH"
+    "target_path": "hardware/sony/DASH",
+    "remote": "github",
+    "revision": "kk"
   },
   {
     "repository": "HydraCarbon/proprietary_vendor_sony",
-    "target_path": "vendor/sony"
+    "target_path": "vendor/sony",
+    "remote": "github",
+    "revision": "kk"
   }
 ]
