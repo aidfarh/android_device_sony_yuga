@@ -24,10 +24,10 @@
     "revision": "HydraCarbon_kk_aidfarh"
   },
   {
-    "repository": "HydraCarbon/android_hardware_sony_DASH",
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "remote": "github",
-    "revision": "kk"
+    "revision": "cm-11.0"
   },
   {
     "repository": "aidfarh/proprietary_vendor_sony",
